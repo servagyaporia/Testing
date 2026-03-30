@@ -47,10 +47,11 @@ namespace Retail_Web_DFA.Controllers
 
         public void cal()
         {
-            int a = 10 + 20;
+            int a = 10 + 20+58;
             Console.WriteLine(a);
             int b = 25 + 87;
             Console.WriteLine(b);
+            Console.WriteLine("Hello");
         }
     }
 }
