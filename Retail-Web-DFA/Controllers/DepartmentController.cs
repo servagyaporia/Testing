@@ -44,5 +44,11 @@ namespace Retail_Web_DFA.Controllers
             _service.DeleteDepartment(id);
             return RedirectToAction("Index");
         }
+
+        public void cal()
+        {
+            int a = 10 + 20;
+            Console.WriteLine(a);
+        }
     }
 }
