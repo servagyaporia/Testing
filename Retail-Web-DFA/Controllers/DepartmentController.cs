@@ -49,6 +49,8 @@ namespace Retail_Web_DFA.Controllers
         {
             int a = 10 + 20;
             Console.WriteLine(a);
+            int b = 25 + 87;
+            Console.WriteLine(b);
         }
     }
 }
